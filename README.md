@@ -1,5 +1,6 @@
-## Hi there 👋
-https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
+## HELLO!
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!--
 **phjang0408/phjang0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
